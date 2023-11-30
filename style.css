@@ -1,20 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+
 body {
-    color: red;
-}
-
-h1 {
-    color: blueviolet;
-}
-
-h2 {
-    color: blue;
-}
-
-
-.himp {
-    color: black;
-}
-
-#para-imp {
-    color: rgba(20, 220, 20, 0.866);
+    font-family: 'Roboto', sans-serif;
 }
