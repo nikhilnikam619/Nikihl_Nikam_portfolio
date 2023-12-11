@@ -24,7 +24,6 @@ hr {
 .container {
     padding-left: 1rem;
     padding-right: 1rem;
-    padding-bottom: 2rem;
 }
 
 .container-centre {
@@ -87,7 +86,7 @@ hr {
 
 .navigation .nav-pills {
 
-    text-align: center;
+    text-align: right;
 }
 
 
@@ -100,7 +99,6 @@ hr {
 
 .hero {
     padding: 2rem;
-    padding-top: 5rem;
 
 
 }
@@ -131,7 +129,6 @@ hr {
 
 .ow {
     background-color: var(--off-white);
-    padding-bottom: 0.5rem;
 }
 
 /* footers */
@@ -145,7 +142,6 @@ hr {
     border-bottom-left-radius: 1rem 1rem;
     color: white;
 
-
 }
 
 .footer .footer-header {
@@ -154,12 +150,11 @@ hr {
     font-size: large;
 }
 
-
-
 .footer ul {
 
     padding-inline-start: 0px;
 }
+
 
 .footer .link {
     color: white;
